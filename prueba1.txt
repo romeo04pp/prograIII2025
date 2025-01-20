@@ -1,1 +1,11 @@
 PRUEBA 1
+Para clonar repositorio: 
+git init
+git clone "url"
+
+Para traer a local
+git status
+git add .
+git commit -m "descripcion"
+git push origin main
+
